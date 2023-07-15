@@ -10,6 +10,15 @@ author_profile: true
 # <center> Working Papers </center>
 - - -
 
+**Social Networks Shape Beliefs and Behavior: Evidence from Social Distancing during the Covid-19 Pandemic** (with Michael Bailey, Drew Johnston, Theresa Kuchler, Bogdan State, and Johannes Stroebel). Updated 2023. *Accepted at Journal of Political Economy Microeconomics* <br/>
+<small>[ <a href="#/" onclick="visib('covid_distancing')">Abstract</a> | [Draft][covid_distancing_paper] | [NBER Digest][euro_sci_appendix]] </small>
+<div id="covid_distancing" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We use de-identified data from Facebook to study how social connections affect beliefs and behaviors in high-stakes settings. During the Covid-19 pandemic, individuals with friends in areas currently experiencing worse disease outbreaks reduced their mobility substantially more than their otherwise similar neighbors with friends in less affected areas. To explore the mechanisms through which social connections shape behaviors, we show that individuals with higher friend exposure to Covid-19 are more likely to publicly post in support of social distancing measures and less likely to be members of groups seeking to "reopen" the economy. These findings suggest that friends influence individuals’ behaviors in part through their beliefs, even in the presence of ubiquitous information from expert sources
+</small><br><br/></div>
+
+[covid_distancing_paper]:{{ site.baseurl }}{% link assets/files/BJKKRS_FB_Covid_Distancing.pdf %}
+[covid_distancing_digest]:https://www.nber.org/digest-2021-02
+
 
 # <center> Published Papers </center>
 - - -
@@ -22,11 +31,11 @@ We use aggregated data from Facebook to show that COVID-19 is more likely to spr
 </small><br><br/></div>
 
 [covid_sci_paper]:{{ site.baseurl }}{% link assets/files/KRS_covid_sci.pdf %}
-[covid_sci_code] : https://github.com/social-connectedness-index/example-scripts/tree/master/covid19_exploration
-[covid_sci_video] : https://www.youtube.com/watch?v=-jLonhO89Xs&list=PL41aTiRjzS9sG2wtz6qusI4ZD2CDMV04O&index=4&t=1s
-[covid_sci_guardian]: https://www.theguardian.com/world/2020/apr/14/facebook-friendships-can-help-predict-covid-19-spread-study-finds
-[covid_sci_daily] : https://www.dailymail.co.uk/sciencetech/article-8219575/amp/Facebook-data-predict-spread-disease-outbreaks-says-new-research-social-connectedness.html
-[covid_sci_faz] : https://www.faz.net/aktuell/wissen/geist-soziales/gefaehrliche-freundschaften-gefaehrliche-freundschaften-in-zeiten-von-covid-19-16731507.html
+[covid_sci_code]:https://github.com/social-connectedness-index/example-scripts/tree/master/covid19_exploration
+[covid_sci_video]:https://www.youtube.com/watch?v=-jLonhO89Xs&list=PL41aTiRjzS9sG2wtz6qusI4ZD2CDMV04O&index=4&t=1s
+[covid_sci_guardian]:https://www.theguardian.com/world/2020/apr/14/facebook-friendships-can-help-predict-covid-19-spread-study-finds
+[covid_sci_daily]:https://www.dailymail.co.uk/sciencetech/article-8219575/amp/Facebook-data-predict-spread-disease-outbreaks-says-new-research-social-connectedness.html
+[covid_sci_faz]:https://www.faz.net/aktuell/wissen/geist-soziales/gefaehrliche-freundschaften-gefaehrliche-freundschaften-in-zeiten-von-covid-19-16731507.html
 
 
 **The Determinants of Social Connectedness in Europe** (with Michael Bailey, Drew Johnston, Theresa Kuchler, Bogdan State, and Johannes Stroebel). *Social Informatics*, 2020. <br/>
@@ -37,9 +46,9 @@ We use de-identified and aggregated data from Facebook to study the structure of
 
 [euro_sci_paper]: https://doi.org/10.1007/978-3-030-60975-7_1
 [euro_sci_code]: https://github.com/social-connectedness-index/euro_sci
-[euro_sci_appendix] : https://arxiv.org/pdf/2007.12177.pdf
-[euro_sci_video] : https://drive.google.com/file/d/1cPQFFAfvfXMaYFqR2_3ojMmtOSMMcrKI/view?usp=sharing
-[euro_sci_slides] :{{ site.baseurl }}{% link assets/files/Euro_SCI_Slides.pdf %}
+[euro_sci_appendix]:https://arxiv.org/pdf/2007.12177.pdf
+[euro_sci_video]:https://drive.google.com/file/d/1cPQFFAfvfXMaYFqR2_3ojMmtOSMMcrKI/view?usp=sharing
+[euro_sci_slides]:{{ site.baseurl }}{% link assets/files/Euro_SCI_Slides.pdf %}
 
 
 
