@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Dominic Russel"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Harvard PhD Candidate"
+  bio              : "PhD Candidate, Harvard"
   location         : "Cambridge, MA"
   email            :
   links:
@@ -285,14 +285,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
