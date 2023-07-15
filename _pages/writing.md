@@ -8,7 +8,7 @@ author_profile: true
 
 
 **Promoting Transparency and Equity in Pre-Doctoral Research** (with Coly Elhai and Jun Wong). 2022. <br/>
-<small>[[Summary Blog][predoc_conf_blog] | [Recordings and Slides][predoc_conf_recording] |  [OSF Repository of Materials][predoc_conf_osf]] </small>
+<small>[[Summary Blog][predoc_conf_blog] | [Conference Recordings and Slides][predoc_conf_recording] |  [OSF Repository of Materials][predoc_conf_osf]] </small>
 
 [predoc_conf_blog]:https://www.bitss.org/promoting-transparency-and-equity-in-pre-doctoral-research/
 [predoc_conf_recording]:https://predoc.org/events/pre-doctoral-research-in-economics-workshop
