@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Bio"
+  - title: "Home"
     url: https://domrussel.github.io
+  - title: "CV"
+    url: https://domrussel.github.io/assets/files/Dominic_Russel_CV.pdf
   - title: "Research"
     url: https://domrussel.github.io/research
   - title: "Reports & Op-Eds"
     url: https://domrussel.github.io/writing
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Data Viz"
+    url: https://domrussel.github.io/projects
   # - title: "Sitemap"
   #   url: /sitemap/
