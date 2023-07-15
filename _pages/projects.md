@@ -16,7 +16,7 @@ Textual analyses covering every general election Presidential and Vice President
 
 <img src="../assets/images/random_person_featured.jpg" width="400" height="auto" alt="" align="right" style="padding-right: 40px;" /> 
 <strong> Random Person App </strong> <br> 
-Shiny app that generates random income identities based on global income data (by sampling first from countries, then by in-country quantile from a uniform distribution); inspired by the Rawlsian notion of the <a href="https://en.wikipedia.org/wiki/Veil_of_ignorance">veil of ignorance</a>. <br>
+Shiny app that generates random income identities based on global income data (by sampling first from countries, then by in-country quantiles); inspired by the Rawlsian notion of the <a href="https://en.wikipedia.org/wiki/Veil_of_ignorance">veil of ignorance</a>. <br>
 [<a href="https://domrussel.shinyapps.io/Person_App/">View Project</a>] [<a href="https://github.com/domrussel/random_person">View GitHub Repo</a>]
 <br clear="right"/>
 <hr />
