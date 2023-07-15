@@ -1,6 +1,6 @@
 ---
 title:
-permalink: /writing/
+permalink: /research/
 layout: "single"
 classes: wide
 author_profile: true
@@ -14,7 +14,7 @@ author_profile: true
 # <center> Published Papers </center>
 - - -
 
-**JUE Insight: The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook** (with with Theresa Kuchler and Johannes Stroebel). *Journal of Urban Economics*, 2022. <br/>
+**JUE Insight: The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook** (with Theresa Kuchler and Johannes Stroebel). *Journal of Urban Economics*, 2022. <br/>
 <small>[ <a href="#/" onclick="visib('covid_sci')">Abstract</a> | [Published Version][covid_sci_paper] | [Code][covid_sci_code] | [DSCC-19 Presentation Video][covid_sci_video] | [Guardian Coverage][covid_sci_guardian] | [Daily Mail Coverage][covid_sci_daily] | [FAZ Coverage][covid_sci_faz]] </small>
 We use aggregated data from Facebook to show that COVID-19 is more likely to spread between regions with stronger social network connections. Areas with more social ties to two early COVID-19 “hotspots” (Westchester County, NY, in the U.S. and Lodi province in Italy) generally had more confirmed COVID-19 cases by the end of March. These relationships hold after controlling for geographic distance to the hotspots as well as the population density and demographics of the regions. As the pandemic progressed in the U.S., a county’s social proximity to recent COVID-19 cases and deaths predicts future outbreaks over and above physical proximity and demographics. In part due to its broad coverage, social connectedness data provides additional predictive power to measures based on smartphone location or online search data. These results suggest that data from online social networks can be useful to epidemiologists and others hoping to forecast the spread of communicable diseases such as COVID-19.
 <div id="covid_sci" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -28,6 +28,18 @@ We use aggregated data from Facebook to show that COVID-19 is more likely to spr
 [covid_sci_daily] : https://www.dailymail.co.uk/sciencetech/article-8219575/amp/Facebook-data-predict-spread-disease-outbreaks-says-new-research-social-connectedness.html
 [covid_sci_faz] : https://www.faz.net/aktuell/wissen/geist-soziales/gefaehrliche-freundschaften-gefaehrliche-freundschaften-in-zeiten-von-covid-19-16731507.html
 
+
+**The Determinants of Social Connectedness in Europe** (with Michael Bailey, Drew Johnston, Theresa Kuchler, Bogdan State, and Johannes Stroebel). *Social Informatics*, 2020. <br/>
+<small>[ <a href="#/" onclick="visib('euro_sci')">Abstract</a> | [Published Version][euro_sci_paper] | [Online Appendix][euro_sci_appendix] | [Code][euro_sci_code] | [SocInfo 2020 Presentation Video][euro_sci_video] | [Slides][euro_sci_slides]] </small>
+<div id="euro_sci" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We use de-identified and aggregated data from Facebook to study the structure of social networks across European regions. Social connectedness declines strongly in geographic distance and at country borders. Historical borders and unions — such as the Austro-Hungarian Empire, Czechoslovakia, and East/West Germany — shape present-day social connectedness over and above today’s political boundaries and other controls. All else equal, social connectedness is stronger between regions with residents of similar ages and education levels, as well as between regions that share a language and religion. In contrast, region-pairs with dissimilar incomes tend to be more connected, likely due to increased migration from poorer to richer regions.
+</small><br><br/></div>
+
+[euro_sci_paper]: https://doi.org/10.1007/978-3-030-60975-7_1
+[euro_sci_code]: https://github.com/social-connectedness-index/euro_sci
+[euro_sci_appendix] : https://arxiv.org/pdf/2007.12177.pdf
+[euro_sci_video] : https://drive.google.com/file/d/1cPQFFAfvfXMaYFqR2_3ojMmtOSMMcrKI/view?usp=sharing
+[euro_sci_slides] :{{ site.baseurl }}{% link assets/files/Euro_SCI_Slides.pdf %}
 
 
 
