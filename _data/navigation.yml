@@ -2,10 +2,10 @@
 main:
   - title: "Home"
     url: https://domrussel.github.io
-  - title: "CV"
-    url: https://domrussel.github.io/assets/files/Dominic_Russel_CV.pdf
   - title: "Research"
     url: https://domrussel.github.io/research
+  - title: "CV"
+    url: https://domrussel.github.io/assets/files/Dominic_Russel_CV.pdf
   - title: "Reports & Op-Eds"
     url: https://domrussel.github.io/writing
   - title: "Data Viz"
