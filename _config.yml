@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Dominic Russel"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "PhD Candidate Harvard University"
   location         : "Cambridge, MA"
   email            :
