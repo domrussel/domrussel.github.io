@@ -30,6 +30,7 @@ We use de-identified data from Facebook to study how social connections affect b
 [covid_distancing_paper]:{{ site.baseurl }}{% link assets/files/BJKKRS_FB_Covid_Distancing.pdf %}
 [covid_distancing_digest]:https://www.nber.org/digest-2021-02
 
+<br/><br/>
 
 # <center> Published Papers </center>
 - - -
