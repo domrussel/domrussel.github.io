@@ -10,7 +10,7 @@ author_profile: true
 # <center> Working Papers </center>
 - - -
 
-**The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). Updated 2023. <br/>
+**The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). Updated 2023. *R&R at Journal of Political Economy* <br/>
 <small>[<a href="#/" onclick="visib('syrians')">Abstract</a> | [Draft][syrians_paper] | [Summary (English)][syrians_summary] |  [Summary (German)][syrians_summary_de]] </small>
 <div id="syrians" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We use de-identified friendship data from Facebook to study the social integration of Syrian migrants in Germany. We decompose the significant spatial variation in migrants’ integration levels into the rate at which Germans befriend their neighbors in general and the particular rate at which they befriend Syrian migrants versus other Germans. We follow the friending behavior of Germans that move across locations to show that both forces are more affected by local institutions and policies than persistent individual characteristics or preferences of local natives. We explore the characteristics of places with higher integration levels, and show that integration courses causally affect place-specific equilibrium integration levels by shifting the rates of Germans befriending Syrians.
