@@ -10,6 +10,16 @@ author_profile: true
 # <center> Working Papers </center>
 - - -
 
+
+**Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2023. <br/>
+<small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper]] </small>
+<div id="rbf" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We use data from a major South African payment processor to study how digital payments mitigate asymmetric information challenges in small business "revenue-based financing" contracts, which tie repayment schedules to future revenue. Eight months post-financing, digital payments through the processor are 15% lower for takers than observably similar non-takers. We show this "gap" can be decomposed into three components: moral hazard from revenue hiding, adverse selection, and the causal effect of financing for takers. Two natural experiments suggest that takers shift more revenue off the platform when competition increases (moral hazard), and that financiers can increase repayment by waiting longer before extending offers (adverse selection). With estimates from both experiments, we bound the gap components, finding substantial adverse selection, but also positive short-run causal effects. Our results suggest digital payment platforms with "sticky" features can alleviate classic risk-sharing frictions by imposing hiding costs and limiting hidden information.
+</small><br><br/></div>
+
+[rbf_paper]:{{ site.baseurl }}{% link assets/files/RSC_RBF.pdf %}
+
+
 **The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). Updated 2023. *R&R at Journal of Political Economy* <br/>
 <small>[<a href="#/" onclick="visib('syrians')">Abstract</a> | [Draft][syrians_paper] | [Summary (English)][syrians_summary] |  [Summary (German)][syrians_summary_de]] </small>
 <div id="syrians" style="display: none; text-align: justify; line-height: 1.2" ><small>
