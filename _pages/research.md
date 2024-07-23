@@ -11,10 +11,10 @@ author_profile: true
 - - -
 
 
-**Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2023. <br/>
+**FinTech & Financial Frictions: The Rise of Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2024. <br/>
 <small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper]] </small>
 <div id="rbf" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We use data from a major South African payment processor to study how digital payments mitigate asymmetric information challenges in small business "revenue-based financing" contracts, which tie repayment schedules to future revenue. Eight months post-financing, digital payments through the processor are 15% lower for takers than observably similar non-takers. We show this "gap" can be decomposed into three components: moral hazard from revenue hiding, adverse selection, and the causal effect of financing for takers. Two natural experiments suggest that takers shift more revenue off the platform when competition increases (moral hazard), and that financiers can increase repayment by waiting longer before extending offers (adverse selection). With estimates from both experiments, we bound the gap components, finding substantial adverse selection, but also positive short-run causal effects. Our results suggest digital payment platforms with "sticky" features can alleviate classic risk-sharing frictions by imposing hiding costs and limiting hidden information.
+We use transaction-level data from a major payment processor to study FinTech-provided small business "revenue-based financing." After eight months, payments through the processor are 16% lower for businesses who take financing offers than observably similar non-takers, driven by moral hazard from revenue hiding and adverse selection. Two natural experiments suggest FinTech platforms' non-lending interactions with small businesses---e.g., payment processing and inventory management---can limit both hiding and selection. By tying repayment to the continued use of non-lending products, FinTechs can mitigate enforcement and monitoring frictions. Our results help explain the rise of FinTech-provided revenue-based financing.
 </small><br><br/></div>
 
 [rbf_paper]:{{ site.baseurl }}{% link assets/files/RSC_RBF.pdf %}
@@ -30,20 +30,20 @@ We use de-identified friendship data from Facebook to study the social integrati
 [syrians_summary]:{{ site.baseurl }}{% link assets/files/SyrianMigrantsGermany_english_summary.pdf %}
 [syrians_summary_de]:{{ site.baseurl }}{% link assets/files/SyrianMigrantsGermany_german_summary.pdf %}
 
+# <center> Published Papers </center>
+- - -
 
-**Social Networks Shape Beliefs and Behavior: Evidence from Social Distancing during the Covid-19 Pandemic** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). Updated 2023. *Accepted at Journal of Political Economy Microeconomics* <br/>
+
+**Social Networks Shape Beliefs and Behavior: Evidence from Social Distancing during the Covid-19 Pandemic** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). *Journal of Political Economy Microeconomics*, 2024. <br/>
 <small>[<a href="#/" onclick="visib('covid_distancing')">Abstract</a> | [Draft][covid_distancing_paper] | [NBER Digest][covid_distancing_digest]] </small>
 <div id="covid_distancing" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We use de-identified data from Facebook to study how social connections affect beliefs and behaviors in high-stakes settings. During the Covid-19 pandemic, individuals with friends in areas currently experiencing worse disease outbreaks reduced their mobility substantially more than their otherwise similar neighbors with friends in less affected areas. To explore the mechanisms through which social connections shape behaviors, we show that individuals with higher friend exposure to Covid-19 are more likely to publicly post in support of social distancing measures and less likely to be members of groups seeking to "reopen" the economy. These findings suggest that friends influence individuals’ behaviors in part through their beliefs, even in the presence of ubiquitous information from expert sources
+We analyze de-identified data from Facebook to show how social connections affect beliefs and behaviors in high-stakes settings. During the COVID-19 pandemic, individuals with friends in regions facing severe disease outbreaks reduced their mobility more than their demographically similar neighbors with friends in less affected areas. To explore why social connections shape behaviors, we show that individuals with higher friend exposure to COVID-19 are more supportive of social distancing measures and less likely to advocate to reopen the economy. We conclude that friends influence individuals’ behaviors in part through their beliefs, even when there is abundant information from expert sources.
 </small><br><br/></div>
 
-[covid_distancing_paper]:{{ site.baseurl }}{% link assets/files/BJKKRS_FB_Covid_Distancing.pdf %}
+[covid_distancing_paper]:{{ site.baseurl }}{% link assets/files/BJKKRS_FB_Covid_Distancing_JPEM.pdf %}
 [covid_distancing_digest]:https://www.nber.org/digest-2021-02
 
 <br/>
-
-# <center> Published Papers </center>
-- - -
 
 **JUE Insight: The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook** (with Theresa Kuchler and Johannes Stroebel). *Journal of Urban Economics*, 2022. <br/>
 <small>[<a href="#/" onclick="visib('covid_sci')">Abstract</a> | [Published Version][covid_sci_paper] | [Code][covid_sci_code] | [DSCC-19 Presentation Video][covid_sci_video] | [Guardian Coverage][covid_sci_guardian] | [Daily Mail Coverage][covid_sci_daily] | [FAZ Coverage][covid_sci_faz]] </small>
