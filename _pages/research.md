@@ -35,12 +35,13 @@ We use de-identified friendship data from Facebook to study the social integrati
 
 
 **Social Networks Shape Beliefs and Behavior: Evidence from Social Distancing during the Covid-19 Pandemic** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). *Journal of Political Economy Microeconomics*, 2024. <br/>
-<small>[<a href="#/" onclick="visib('covid_distancing')">Abstract</a> | [Draft][covid_distancing_paper] | [NBER Digest][covid_distancing_digest]] </small>
+<small>[<a href="#/" onclick="visib('covid_distancing')">Abstract</a> | [Published Version][covid_distancing_paper] | [Code][covid_distancing_code] [NBER Digest][covid_distancing_digest]] </small>
 <div id="covid_distancing" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We analyze de-identified data from Facebook to show how social connections affect beliefs and behaviors in high-stakes settings. During the COVID-19 pandemic, individuals with friends in regions facing severe disease outbreaks reduced their mobility more than their demographically similar neighbors with friends in less affected areas. To explore why social connections shape behaviors, we show that individuals with higher friend exposure to COVID-19 are more supportive of social distancing measures and less likely to advocate to reopen the economy. We conclude that friends influence individuals’ behaviors in part through their beliefs, even when there is abundant information from expert sources.
 </small><br><br/></div>
 
 [covid_distancing_paper]:{{ site.baseurl }}{% link assets/files/BJKKRS_FB_Covid_Distancing_JPEM.pdf %}
+[covid_distancing_code]:https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QYZLHT
 [covid_distancing_digest]:https://www.nber.org/digest-2021-02
 
 <br/>
