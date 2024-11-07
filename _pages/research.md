@@ -10,8 +10,16 @@ author_profile: true
 # <center> Working Papers </center>
 - - -
 
+**The Supply Side of Consumer Debt Repayment** (with Justin Katz and Claire Shi). Updated 2024. <br/>
+<small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][supply_paper]] </small>
+<div id="supply" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Minimum payments on credit card debt allow consumers to repay slowly: despite being unsecured, the average $7,000 balance generally amortizes in over 20 years. We study how lenders choose these minimum payments and the impacts of these choices on equilibrium consumer debt outcomes. When short-term illiquidity makes many borrowers unable to make higher payments, lenders set low minimums to limit default costs. Alternatively, if many borrowers make near-minimum payments for reasons besides illiquidity (e.g., due to anchoring), lenders set low minimums to generate interest revenue. To separate these two forces, we use payment-level data from a credit bureau to document a new fact about intra-temporal debt repayment. Consumers often revolve high-interest credit card debt while making excess payments on low-interest installment debt, providing evidence that low payments aren't solely liquidity-driven. We use this fact to estimate an empirical model that predicts realistically low lender minimums. The model suggests that without anchoring, minimums would be over twice as high for most borrowers. Lenders amplify consumer biases, accounting for 20% of the total increase in credit card debt and 85% of defaults from anchoring in our model.
+</small><br><br/></div>
 
-**FinTech & Financial Frictions: The Rise of Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2024. <br/>
+[supply_paper]:{{ site.baseurl }}{% link assets/files/SupplySide.pdf %}
+
+
+**FinTech & Financial Frictions: The Rise of Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2024. *Reject & Resubmit at Review of Financial Studies* <br/>
 <small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper]] </small>
 <div id="rbf" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We use transaction-level data from a major payment processor to study FinTech-provided small business "revenue-based financing." After eight months, payments through the processor are 16% lower for businesses who take financing offers than observably similar non-takers, driven by moral hazard from revenue hiding and adverse selection. Two natural experiments suggest FinTech platforms' non-lending interactions with small businesses---e.g., payment processing and inventory management---can limit both hiding and selection. By tying repayment to the continued use of non-lending products, FinTechs can mitigate enforcement and monitoring frictions. Our results help explain the rise of FinTech-provided revenue-based financing.
