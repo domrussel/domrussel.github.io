@@ -10,6 +10,12 @@ author_profile: true
 # <center> Working Papers </center>
 - - -
 
+**Behavioral Cross-Selling: Evidence from Retail Credit Cards** (with Sarah Robinson and Claire Shi). Updated 2025. <br/>
+<small>[<a href="#/" onclick="visib('retail')">Abstract</a> | [Draft][retail_paper] | [Retail Card Rewards Data][https://docs.google.com/spreadsheets/d/176_SA1aTiUCCWSnhGy33WHL1Y3SFbksqRmt1wUkKEx8/edit?usp=sharing]] </small>
+<div id="retail" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Why do some non-financial firms rely on revenue from consumer financial products? At several large U.S. retailers, direct revenues from credit card partnerships exceed total operating income. This paper proposes a theory of behavioral cross-selling, in which firms use their access to customers to cross-sell products that capitalize on behavioral biases, such as inattention or forgetfulness. We test our theory in the retail credit card market using data from a major credit bureau. Although retail cards account for only 17% of balances in our sample, they generate 45% of missed minimum payments, triggering late fees. Liquidity constraints cannot fully explain missed minimums: among individuals with multiple cards, nearly half of missed payments on retail cards could have been avoided by reallocating excess payments from other cards. Consistent with the theory, firms in locations with more avoidable missed payments are more likely to offer retail cards and provide larger sign-up incentives. We discuss how behavioral cross-selling can help explain practices in industries such as airlines, auto dealerships, tax preparation services, and sports entertainment.
+</small><br><br/></div>
+
 **The Supply Side of Consumer Debt Repayment** (with Justin Katz and Claire Shi). Updated 2024. <br/>
 <small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][supply_paper]] </small>
 <div id="supply" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -20,29 +26,28 @@ Minimum payments on credit card debt allow consumers to repay slowly: despite be
 
 
 **FinTech & Financial Frictions: The Rise of Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2024. *Reject & Resubmit at Review of Financial Studies* <br/>
-<small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper]] </small>
+<small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper] | [BII Presentation Video][https://www.youtube.com/watch?v=SmPVPtMDAFY]] </small>
 <div id="rbf" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We use transaction-level data from a major payment processor to study FinTech-provided small business "revenue-based financing." After eight months, payments through the processor are 16% lower for businesses who take financing offers than observably similar non-takers, driven by moral hazard from revenue hiding and adverse selection. Two natural experiments suggest FinTech platforms' non-lending interactions with small businesses---e.g., payment processing and inventory management---can limit both hiding and selection. By tying repayment to the continued use of non-lending products, FinTechs can mitigate enforcement and monitoring frictions. Our results help explain the rise of FinTech-provided revenue-based financing.
 </small><br><br/></div>
 
 [rbf_paper]:{{ site.baseurl }}{% link assets/files/RSC_RBF.pdf %}
 
-
-**The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). Updated 2024. *Conditionally Accepted at Journal of Political Economy* <br/>
-<small>[<a href="#/" onclick="visib('syrians')">Abstract</a> | [Draft][syrians_paper] | [Summary (English)][syrians_summary] |  [Summary (German)][syrians_summary_de]] </small>
-<div id="syrians" style="display: none; text-align: justify; line-height: 1.2" ><small>
- We use de-identified friendship data from Facebook to study the social integration of Syrian migrants in Germany. Our analysis establishes five key findings: (1) Places differ substantially in their propensities to socially integrate migrants. This regional variation in integration outcomes largely reflects causal place-based effects. (2) Spatial variation in migrants' social integration can be decomposed into the rate at which Germans befriend their neighbors in general and the particular rate at which they befriend migrants versus other Germans. We follow the friending behavior of Germans that move across locations to show that both forces are more affected by local institutions and policies than by persistent individual characteristics or preferences of local natives. (3) Integration courses causally affect place-specific equilibrium integration levels by increasing the rate at which Germans befriend Syrian migrants. (4) Social integration helps migrants obtain help from natives across a range of settings such as finding jobs and housing. (5) Natives quasi-randomly exposed to a migrant in high school are more likely to befriend other migrants later in life.
-</small><br><br/></div>
-
-[syrians_paper]:{{ site.baseurl }}{% link assets/files/BJKKRS_SyrianMigrantsGermany.pdf %}
-[syrians_summary]:{{ site.baseurl }}{% link assets/files/SyrianMigrantsGermany_english_summary.pdf %}
-[syrians_summary_de]:{{ site.baseurl }}{% link assets/files/SyrianMigrantsGermany_german_summary.pdf %}
-
 <br/>
 
 # <center> Published Papers </center>
 - - -
 
+**The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). Updated 2025. *Forthcoming at Journal of Political Economy* <br/>
+<small>[<a href="#/" onclick="visib('syrians')">Abstract</a> | [Draft][syrians_paper] | [Appendix][syrians_appendix] | [Summary (English)][syrians_summary] | [Summary (German)][syrians_summary_de]] </small>
+<div id="syrians" style="display: none; text-align: justify; line-height: 1.2" ><small>
+ We use de-identified friendship data from Facebook to study the social integration of Syrian migrants in Germany. Our analysis establishes five key findings: (1) Places differ substantially in their propensities to socially integrate migrants. This regional variation in integration outcomes largely reflects causal place-based effects. (2) Spatial variation in migrants' social integration can be decomposed into the rate at which Germans befriend their neighbors in general and the particular rate at which they befriend migrants versus other Germans. We follow the friending behavior of Germans that move across locations to show that both forces are more affected by local institutions and policies than by persistent individual characteristics or preferences of local natives. (3) Integration courses causally affect place-specific equilibrium integration levels by increasing the rate at which Germans befriend Syrian migrants. (4) Social integration helps migrants obtain help from natives across a range of settings such as finding jobs and housing. (5) Natives quasi-randomly exposed to a migrant in high school are more likely to befriend other migrants later in life.
+</small><br><br/></div>
+
+[syrians_paper]:{{ site.baseurl }}{% link assets/files/BJKKRS_SyrianMigrantsGermany.pdf %}
+[syrians_appendix]:{{ site.baseurl }}{% link assets/files/BJKKRS_SyrianMigrantsGermany_Appendix.pdf %}
+[syrians_summary]:{{ site.baseurl }}{% link assets/files/SyrianMigrantsGermany_english_summary.pdf %}
+[syrians_summary_de]:{{ site.baseurl }}{% link assets/files/SyrianMigrantsGermany_german_summary.pdf %}
 
 **Social Networks Shape Beliefs and Behavior: Evidence from Social Distancing during the Covid-19 Pandemic** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). *Journal of Political Economy Microeconomics*, 2024. <br/>
 <small>[<a href="#/" onclick="visib('covid_distancing')">Abstract</a> | [Published Version][covid_distancing_paper] | [Code][covid_distancing_code] | [NBER Digest][covid_distancing_digest]] </small>
