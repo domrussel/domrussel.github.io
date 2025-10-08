@@ -29,10 +29,10 @@ Minimum payments on credit card debt allow consumers to repay slowly: despite be
 [supply_paper]:{{ site.baseurl }}{% link assets/files/SupplySide.pdf %}
 
 
-**FinTech & Financial Frictions: The Rise of Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2024. *Reject & Resubmit at Review of Financial Studies* <br/>
+**Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2025. *Reject & Resubmit at Review of Financial Studies* <br/>
 <small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper] | [BII Presentation Video][rbf_video]] </small>
 <div id="rbf" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We use transaction-level data from a major payment processor to study FinTech-provided small business "revenue-based financing." After eight months, payments through the processor are 16% lower for businesses who take financing offers than observably similar non-takers, driven by moral hazard from revenue hiding and adverse selection. Two natural experiments suggest FinTech platforms' non-lending interactions with small businesses---e.g., payment processing and inventory management---can limit both hiding and selection. By tying repayment to the continued use of non-lending products, FinTechs can mitigate enforcement and monitoring frictions. Our results help explain the rise of FinTech-provided revenue-based financing.
+We study revenue-based financing, an emerging capital source for small firms in low- and middle-income countries. Using transaction-level data from a South African payment platform, we show firms that take financing process 16% less revenue through the platform than observably similar non-takers after eight months, slowing repayment. Two natural experiments show this reflects moral hazard from firms diverting revenue and adverse selection. Repayment improves when firms use the platform’s other services (e.g., inventory management tools), and screening improves with longer histories and repeat financing. Our results highlight the frictions with flexible repayment models in developing economies, and how providers mitigate them.
 </small><br><br/></div>
 
 [rbf_paper]:{{ site.baseurl }}{% link assets/files/RSC_RBF.pdf %}
