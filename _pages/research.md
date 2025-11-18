@@ -10,6 +10,22 @@ author_profile: true
 # <center> Working Papers </center>
 - - -
 
+**The Supply Side of Consumer Debt Repayment** (with Justin Katz and Claire Shi). Updated 2024. <br/>
+<small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][supply_paper]] </small>
+<div id="supply" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Minimum payments on credit card debt allow consumers to repay slowly: despite being unsecured, the average $7,000 balance generally amortizes in over 20 years. We study how lenders choose these minimum payments and the impacts of these choices on equilibrium consumer debt outcomes. When short-term illiquidity makes many borrowers unable to make higher payments, lenders set low minimums to limit default costs. Alternatively, if many borrowers make near-minimum payments for reasons besides illiquidity (e.g., due to anchoring), lenders set low minimums to generate interest revenue. To separate these two forces, we use payment-level data from a credit bureau to document a new fact about intra-temporal debt repayment. Consumers often revolve high-interest credit card debt while making excess payments on low-interest installment debt, providing evidence that low payments aren't solely liquidity-driven. We use this fact to estimate an empirical model that predicts realistically low lender minimums. The model suggests that without anchoring, minimums would be over twice as high for most borrowers. Lenders amplify consumer biases, accounting for 20% of the total increase in credit card debt and 85% of defaults from anchoring in our model.
+</small><br><br/></div>
+
+[supply_paper]:{{ site.baseurl }}{% link assets/files/SupplySide.pdf %}
+
+**Risk-Seeking Motives and Speculative Investment** (with Costas Arkolakis, Spencer Yongwook Kwon, Claire Shi, and Hyunjoo Yang). Updated 2025. <br/>
+<small>[<a href="#/" onclick="visib('riskseeking')">Abstract</a> | [Draft][riskseeking_paper] </small>
+<div id="riskseeking" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Why do some individuals make high-risk financial investments? Using millions of linked records from Korea's leading credit bureau, telecom provider, and credit card company, we study the determinants and consequences of speculative activity. We classify explanations for high-risk financial behaviors into two types: those that overcome risk aversion, either through optimistic beliefs or desire for entertainment, and those driven by risk-seeking preferences, endogenously generated from desperation or aspirational motives (à la Friedman and Savage, 1948). Consistent with true risk-seeking motives, crypto app usage is higher among individuals with more unsecured debt, higher spending, and fewer assets, and rises after unemployment and new borrowing. Crypto app usage is also disproportionately concentrated among young and early-middle-aged men. Crypto speculation carries consequences: among crypto users, bitcoin price drops lead to lower consumption and increased delinquency, while a price boom is followed by increases in homeownership. Survey data show that crypto holders are more risk-seeking in choice tasks and more optimistic in their beliefs about crypto returns. In a stylized model, we show that when households are both risk-seeking and overoptimistic, risk-seeking preferences can amplify the negative effects of overoptimism.
+</small><br><br/></div>
+
+[riskseeking_paper]:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5761702
+
 **Behavioral Cross-Selling: Evidence from Retail Credit Cards** (with Sarah E. Robinson and Claire Shi). Updated 2025. <br/>
 <small>[<a href="#/" onclick="visib('retail')">Abstract</a> | [Draft][retail_paper] | [Retail Card Rewards Data][retail_data]] </small>
 <div id="retail" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -18,15 +34,6 @@ Why do some non-financial firms rely on revenue from consumer financial products
 
 [retail_paper]:{{ site.baseurl }}{% link assets/files/RRS_RetailCards.pdf %}
 [retail_data]:https://docs.google.com/spreadsheets/d/176_SA1aTiUCCWSnhGy33WHL1Y3SFbksqRmt1wUkKEx8/edit?usp=sharing
-
-
-**The Supply Side of Consumer Debt Repayment** (with Justin Katz and Claire Shi). Updated 2024. <br/>
-<small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][supply_paper]] </small>
-<div id="supply" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Minimum payments on credit card debt allow consumers to repay slowly: despite being unsecured, the average $7,000 balance generally amortizes in over 20 years. We study how lenders choose these minimum payments and the impacts of these choices on equilibrium consumer debt outcomes. When short-term illiquidity makes many borrowers unable to make higher payments, lenders set low minimums to limit default costs. Alternatively, if many borrowers make near-minimum payments for reasons besides illiquidity (e.g., due to anchoring), lenders set low minimums to generate interest revenue. To separate these two forces, we use payment-level data from a credit bureau to document a new fact about intra-temporal debt repayment. Consumers often revolve high-interest credit card debt while making excess payments on low-interest installment debt, providing evidence that low payments aren't solely liquidity-driven. We use this fact to estimate an empirical model that predicts realistically low lender minimums. The model suggests that without anchoring, minimums would be over twice as high for most borrowers. Lenders amplify consumer biases, accounting for 20% of the total increase in credit card debt and 85% of defaults from anchoring in our model.
-</small><br><br/></div>
-
-[supply_paper]:{{ site.baseurl }}{% link assets/files/SupplySide.pdf %}
 
 
 **Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2025. *Reject & Resubmit at Review of Financial Studies* <br/>
