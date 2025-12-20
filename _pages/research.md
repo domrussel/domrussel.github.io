@@ -28,12 +28,13 @@ Why do some non-financial firms rely on revenue from consumer financial products
 [retail_data]:https://docs.google.com/spreadsheets/d/176_SA1aTiUCCWSnhGy33WHL1Y3SFbksqRmt1wUkKEx8/edit?usp=sharing
 
 **The Supply Side of Consumer Debt Repayment** (with Justin Katz and Claire Shi). Updated 2024. <br/>
-<small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][supply_paper]] </small>
+<small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][supply_paper] | [Cited in 2025 Congressional Report on Consumer Finance][crs_coverage]] </small>
 <div id="supply" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Minimum payments on credit card debt allow consumers to repay slowly: despite being unsecured, the average $7,000 balance generally amortizes in over 20 years. We study how lenders choose these minimum payments and the impacts of these choices on equilibrium consumer debt outcomes. When short-term illiquidity makes many borrowers unable to make higher payments, lenders set low minimums to limit default costs. Alternatively, if many borrowers make near-minimum payments for reasons besides illiquidity (e.g., due to anchoring), lenders set low minimums to generate interest revenue. To separate these two forces, we use payment-level data from a credit bureau to document a new fact about intra-temporal debt repayment. Consumers often revolve high-interest credit card debt while making excess payments on low-interest installment debt, providing evidence that low payments aren't solely liquidity-driven. We use this fact to estimate an empirical model that predicts realistically low lender minimums. The model suggests that without anchoring, minimums would be over twice as high for most borrowers. Lenders amplify consumer biases, accounting for 20% of the total increase in credit card debt and 85% of defaults from anchoring in our model.
 </small><br><br/></div>
 
 [supply_paper]:{{ site.baseurl }}{% link assets/files/SupplySide.pdf %}
+[crs_coverage]:https://www.congress.gov/crs-product/R48747
 
 **Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2025. *Reject & Resubmit at Review of Financial Studies* <br/>
 <small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper] | [BII Presentation Video][rbf_video]] </small>
