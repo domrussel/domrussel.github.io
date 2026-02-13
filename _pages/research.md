@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-# <center> Working Papers </center>
+### <center> Working Papers </center>
 - - -
 
 **Risk-Seeking Motives and Speculative Investment** (with Costas Arkolakis, Spencer Yongwook Kwon, Claire Shi, and Hyunjoo Yang). Updated 2025. <br/>
@@ -45,9 +45,7 @@ We study revenue-based financing, an emerging capital source for small firms in 
 [rbf_paper]:{{ site.baseurl }}{% link assets/files/RSC_RBF.pdf %}
 [rbf_video]:https://www.youtube.com/watch?v=SmPVPtMDAFY
 
-<br/>
-
-# <center> Published Papers </center>
+### <center> Published Papers </center>
 - - -
 
 **The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). Updated 2025. *Forthcoming at Journal of Political Economy* <br/>

@@ -8,6 +8,20 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Research page: tighter spacing and smaller font */
+.page__content h3 {
+  margin: 0.8em 0 0.2em;
+}
+
+.page__content hr {
+  margin: 0.4em 0 0.8em;
+}
+
+.page__content ul li {
+  margin-bottom: 0.25em;
+  font-size: 0.92em;
+}
+
 @media (min-width: 120em) {
 
 .author__avatar {
