@@ -37,19 +37,20 @@ Minimum payments on credit card debt allow consumers to repay slowly: despite be
 [crs_coverage]:https://www.congress.gov/crs-product/R48747
 
 **Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2025. *Reject & Resubmit at Review of Financial Studies* <br/>
-<small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper] | [BII Presentation Video][rbf_video]] </small>
+<small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper] | [BII Presentation Video][rbf_video] | [J-Pal Coverage][rbf_jpal]] </small>
 <div id="rbf" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study revenue-based financing, an emerging capital source for small firms in low- and middle-income countries. Using transaction-level data from a South African payment platform, we show firms that take financing process 16% less revenue through the platform than observably similar non-takers after eight months, slowing repayment. Two natural experiments show this reflects moral hazard from firms diverting revenue and adverse selection. Repayment improves when firms use the platform’s other services (e.g., inventory management tools), and screening improves with longer histories and repeat financing. Our results highlight the frictions with flexible repayment models in developing economies, and how providers mitigate them.
 </small><br><br/></div>
 
 [rbf_paper]:{{ site.baseurl }}{% link assets/files/RSC_RBF.pdf %}
 [rbf_video]:https://www.youtube.com/watch?v=SmPVPtMDAFY
+[rbf_jpal]:https://www.povertyactionlab.org/blog/3-9-26/how-data-and-ai-are-reshaping-access-finance
 
 ### <center> Published Papers </center>
 - - -
 
-**The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). Updated 2025. *Forthcoming at Journal of Political Economy* <br/>
-<small>[<a href="#/" onclick="visib('syrians')">Abstract</a> | [Draft][syrians_paper] | [Appendix][syrians_appendix] | [Summary (English)][syrians_summary] | [Summary (German)][syrians_summary_de]] </small>
+**The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany** (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel). *Journal of Political Economy*, 2026. <br/>
+<small>[<a href="#/" onclick="visib('syrians')">Abstract</a> | [Published Version][syrians_paper] | [Appendix][syrians_appendix] | [Summary (English)][syrians_summary] | [Summary (German)][syrians_summary_de]] </small>
 <div id="syrians" style="display: none; text-align: justify; line-height: 1.2" ><small>
  We use de-identified friendship data from Facebook to study the social integration of Syrian migrants in Germany. Our analysis establishes five key findings: (1) Places differ substantially in their propensities to socially integrate migrants. This regional variation in integration outcomes largely reflects causal place-based effects. (2) Spatial variation in migrants' social integration can be decomposed into the rate at which Germans befriend their neighbors in general and the particular rate at which they befriend migrants versus other Germans. We follow the friending behavior of Germans that move across locations to show that both forces are more affected by local institutions and policies than by persistent individual characteristics or preferences of local natives. (3) Integration courses causally affect place-specific equilibrium integration levels by increasing the rate at which Germans befriend Syrian migrants. (4) Social integration helps migrants obtain help from natives across a range of settings such as finding jobs and housing. (5) Natives quasi-randomly exposed to a migrant in high school are more likely to befriend other migrants later in life.
 </small><br><br/></div>
