@@ -10,31 +10,22 @@ author_profile: true
 ### <center> Working Papers </center>
 - - -
 
-**Risk-Seeking Motives and Speculative Investment** (with Costas Arkolakis, Spencer Yongwook Kwon, Claire Shi, and Hyunjoo Yang). Updated 2025. <br/>
-<small>[<a href="#/" onclick="visib('riskseeking')">Abstract</a> | [Draft][riskseeking_paper]] </small>
-<div id="riskseeking" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Why do some individuals make high-risk financial investments? Using millions of linked records from Korea's leading credit bureau, telecom provider, and credit card company, we study the determinants and consequences of speculative activity. We classify explanations for high-risk financial behaviors into two types: those that overcome risk aversion, either through optimistic beliefs or desire for entertainment, and those driven by risk-seeking preferences, endogenously generated from desperation or aspirational motives (à la Friedman and Savage, 1948). Consistent with true risk-seeking motives, crypto app usage is higher among individuals with more unsecured debt, higher spending, and fewer assets, and rises after unemployment and new borrowing. Crypto app usage is also disproportionately concentrated among young and early-middle-aged men. Crypto speculation carries consequences: among crypto users, bitcoin price drops lead to lower consumption and increased delinquency, while a price boom is followed by increases in homeownership. Survey data show that crypto holders are more risk-seeking in choice tasks and more optimistic in their beliefs about crypto returns. In a stylized model, we show that when households are both risk-seeking and overoptimistic, risk-seeking preferences can amplify the negative effects of overoptimism.
-</small><br><br/></div>
-
-[riskseeking_paper]:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5761702
-
-**Behavioral Cross-Selling: Evidence from Retail Credit Cards** (with Sarah E. Robinson and Claire Shi). Updated 2025. <br/>
-<small>[<a href="#/" onclick="visib('retail')">Abstract</a> | [Draft][retail_paper] | [Retail Card Rewards Data][retail_data]] </small>
-<div id="retail" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Why do some non-financial firms rely on revenue from consumer financial products? At several large U.S. retailers, direct revenues from credit card partnerships exceed total operating income. This paper proposes a theory of behavioral cross-selling, in which firms use their access to customers to cross-sell products that capitalize on behavioral biases, such as inattention or forgetfulness. We test our theory in the retail credit card market using data from a major credit bureau. Although retail cards account for only 17% of balances in our sample, they generate 45% of missed minimum payments, triggering late fees. Liquidity constraints cannot fully explain missed minimums: among individuals with multiple cards, nearly half of missed payments on retail cards could have been avoided by reallocating excess payments from other cards. Consistent with the theory, firms in locations with more avoidable missed payments are more likely to offer retail cards and provide larger sign-up incentives. We discuss how behavioral cross-selling can help explain practices in industries such as airlines, auto dealerships, tax preparation services, and sports entertainment.
-</small><br><br/></div>
-
-[retail_paper]:{{ site.baseurl }}{% link assets/files/RRS_RetailCards.pdf %}
-[retail_data]:https://docs.google.com/spreadsheets/d/176_SA1aTiUCCWSnhGy33WHL1Y3SFbksqRmt1wUkKEx8/edit?usp=sharing
-
-**The Supply Side of Consumer Debt Repayment** (with Justin Katz and Claire Shi). Updated 2024. <br/>
+**The Supply Side of Consumer Debt Repayment** (with Justin Katz and Claire Shi). Updated 2026. <br/>
 <small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][supply_paper] | Cited in [2025 Congressional Report on Consumer Finance][crs_coverage]] </small>
 <div id="supply" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Minimum payments on credit card debt allow consumers to repay slowly: despite being unsecured, the average $7,000 balance generally amortizes in over 20 years. We study how lenders choose these minimum payments and the impacts of these choices on equilibrium consumer debt outcomes. When short-term illiquidity makes many borrowers unable to make higher payments, lenders set low minimums to limit default costs. Alternatively, if many borrowers make near-minimum payments for reasons besides illiquidity (e.g., due to anchoring), lenders set low minimums to generate interest revenue. To separate these two forces, we use payment-level data from a credit bureau to document a new fact about intra-temporal debt repayment. Consumers often revolve high-interest credit card debt while making excess payments on low-interest installment debt, providing evidence that low payments aren't solely liquidity-driven. We use this fact to estimate an empirical model that predicts realistically low lender minimums. The model suggests that without anchoring, minimums would be over twice as high for most borrowers. Lenders amplify consumer biases, accounting for 20% of the total increase in credit card debt and 85% of defaults from anchoring in our model.
+We study how lender responses to consumer biases affect credit card debt. Using account-level credit bureau data, we document a new fact: many consumers make near-minimum credit card repayments while also overpaying lower-interest installment debt. We estimate an empirical model in which lenders optimally set minimum payments given this behavior. Because some liquid consumers make near-minimum payments, lenders lower minimums to slow repayment, increasing high-interest debt balances and interest revenue. Our model implies that this lender response increases revolving debt by $46 billion. This finding illustrates how optimizing lenders can amplify the effects of consumer biases in equilibrium.
 </small><br><br/></div>
 
 [supply_paper]:{{ site.baseurl }}{% link assets/files/SupplySide.pdf %}
 [crs_coverage]:https://www.congress.gov/crs-product/R48747
+
+**Gambling for Goals** (with Costas Arkolakis, Spencer Yongwook Kwon, Claire Shi, and Hyunjoo Yang). Updated 2026. <br/>
+<small>[<a href="#/" onclick="visib('riskseeking')">Abstract</a> | [Draft][riskseeking_paper]] </small>
+<div id="riskseeking" style="display: none; text-align: justify; line-height: 1.2" ><small>
+As young adults in advanced economies have become increasingly pessimistic about their economic prospects in recent years, gambling-like financial activities have proliferated. We link these trends through a Friedman-Savage (1948) motive: when life goals such as homeownership or marriage seem out of reach, individuals turn to financial gambles. We test the theory using an original survey combined with millions of linked records from Korea’s leading credit bureau, telecom provider, and credit card issuer. Consistent with the theory, individuals who place greater importance on hard-to-reach financial goals are more likely to exhibit risk-seeking preferences and to engage in high-risk investment. Conversely, when goals become attainable, risk-taking declines: exploiting Korea's housing lottery, which quasi-randomly allocates subsidies for home purchase, we show that attaining homeownership reduces interest in cryptocurrency. We conclude with a stylized calibration that shows how goal-driven risk preferences can amplify the welfare costs of overoptimism.
+</small><br><br/></div>
+
+[riskseeking_paper]:{{ site.baseurl }}{% link assets/files/GamblingForGoals.pdf %}
 
 **Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2025. *Reject & Resubmit at Review of Financial Studies* <br/>
 <small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper] | [BII Presentation Video][rbf_video] | [J-Pal Coverage][rbf_jpal]] </small>
@@ -45,6 +36,16 @@ We study revenue-based financing, an emerging capital source for small firms in 
 [rbf_paper]:{{ site.baseurl }}{% link assets/files/RSC_RBF.pdf %}
 [rbf_video]:https://www.youtube.com/watch?v=SmPVPtMDAFY
 [rbf_jpal]:https://www.povertyactionlab.org/blog/3-9-26/how-data-and-ai-are-reshaping-access-finance
+
+**Behavioral Cross-Selling: Evidence from Retail Credit Cards** (with Sarah E. Robinson and Claire Shi). Updated 2025. <br/>
+<small>[<a href="#/" onclick="visib('retail')">Abstract</a> | [Draft][retail_paper] | [Retail Card Rewards Data][retail_data]] </small>
+<div id="retail" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Why do some non-financial firms rely on revenue from consumer financial products? At several large U.S. retailers, direct revenues from credit card partnerships exceed total operating income. This paper proposes a theory of behavioral cross-selling, in which firms use their access to customers to cross-sell products that capitalize on behavioral biases, such as inattention or forgetfulness. We test our theory in the retail credit card market using data from a major credit bureau. Although retail cards account for only 17% of balances in our sample, they generate 45% of missed minimum payments, triggering late fees. Liquidity constraints cannot fully explain missed minimums: among individuals with multiple cards, nearly half of missed payments on retail cards could have been avoided by reallocating excess payments from other cards. Consistent with the theory, firms in locations with more avoidable missed payments are more likely to offer retail cards and provide larger sign-up incentives. We discuss how behavioral cross-selling can help explain practices in industries such as airlines, auto dealerships, tax preparation services, and sports entertainment.
+</small><br><br/></div>
+
+[retail_paper]:{{ site.baseurl }}{% link assets/files/RRS_RetailCards.pdf %}
+[retail_data]:https://docs.google.com/spreadsheets/d/176_SA1aTiUCCWSnhGy33WHL1Y3SFbksqRmt1wUkKEx8/edit?usp=sharing
+
 
 ### <center> Published Papers </center>
 - - -
