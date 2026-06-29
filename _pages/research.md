@@ -27,7 +27,7 @@ As young adults in advanced economies have become increasingly pessimistic about
 
 [riskseeking_paper]:{{ site.baseurl }}{% link assets/files/GamblingForGoals.pdf %}
 
-**Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2025. *Reject & Resubmit at Review of Financial Studies* <br/>
+**Revenue-Based Financing** (with Claire Shi and Rowan Clarke). Updated 2025. *Revise & Resubmit at Review of Financial Studies* <br/>
 <small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper] | [BII Presentation Video][rbf_video] | [J-Pal Coverage][rbf_jpal]] </small>
 <div id="rbf" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study revenue-based financing, an emerging capital source for small firms in low- and middle-income countries. Using transaction-level data from a South African payment platform, we show firms that take financing process 16% less revenue through the platform than observably similar non-takers after eight months, slowing repayment. Two natural experiments show this reflects moral hazard from firms diverting revenue and adverse selection. Repayment improves when firms use the platform’s other services (e.g., inventory management tools), and screening improves with longer histories and repeat financing. Our results highlight the frictions with flexible repayment models in developing economies, and how providers mitigate them.
