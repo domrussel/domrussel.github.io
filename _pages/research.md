@@ -19,7 +19,7 @@ We study how lender responses to consumer biases affect credit card debt. Using 
 [supply_paper]:{{ site.baseurl }}{% link assets/files/SupplySide.pdf %}
 [crs_coverage]:https://www.congress.gov/crs-product/R48747
 
-**Who Borrows on Credit Cards? The Economic and Social Determinants of Consumer Debt** (with Trevor Bakker and Claire Shi). Updated 2026. <br/>
+**Who Borrows on Credit Cards? The Economic and Social Determinants of Consumer Debt** (with Trevor J Bakker and Claire Shi). Updated 2026. <br/>
 <small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][borrows_paper]] </small>
 <div id="supply" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Using linked credit bureau and Census data, we show that revolving credit card debt is highly persistent, insensitive to income growth, and negatively predicts future earnings. Standard rational or behavioral consumption-smoothing models cannot generate these facts without heterogeneous types. We study the sources of this heterogeneity and show that it is shaped in part by the behavior of one's parents. Exploiting variation in the age of children at parental separation, we document a causal effect of parental exposure. Parents transmit specific repayment behaviors, such as overpaying installment debt while revolving credit card debt, as well as broader cultural attitudes from their country of origin. Our findings suggest that learned norms are an important determinant of consumer debt outcomes.
