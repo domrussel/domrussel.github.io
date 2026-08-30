@@ -1,0 +1,74 @@
+/* Keep the type compact at every viewport instead of scaling up on desktops. */
+html {
+  font-size: 15px;
+}
+
+.research-section {
+  margin-top: 2.4rem;
+}
+
+.research-heading {
+  margin: 2.4rem 0 0.3rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #c7bfae;
+  font-size: 1.35em;
+  text-align: left;
+}
+
+.research-item {
+  margin: 1.35rem 0;
+}
+
+.research-item p {
+  margin-bottom: 0.3rem;
+}
+
+.paper-title,
+.paper-title a {
+  color: #b17730;
+}
+
+.paper-title a {
+  text-decoration: none;
+}
+
+.paper-title a:hover,
+.paper-title a:focus {
+  text-decoration: underline;
+}
+
+.paper-links {
+  font-size: 0.82em !important;
+}
+
+.abstract-toggle {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #000;
+  font: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.abstract-toggle:hover,
+.abstract-toggle:focus {
+  text-decoration: underline;
+}
+
+.paper-abstract {
+  margin-top: 0.55rem;
+  text-align: justify;
+}
+
+.paper-abstract p {
+  font-size: 0.82em !important;
+  line-height: 1.35;
+}
+
+.policy-note {
+  margin: 0.55rem 0 1.2rem;
+  font-size: 0.86em !important;
+  font-style: italic;
+}
