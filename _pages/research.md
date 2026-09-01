@@ -41,7 +41,7 @@ As young adults in advanced economies have become increasingly pessimistic about
 We study revenue-based financing, an emerging capital source for small firms in low- and middle-income countries. Using transaction-level data from a South African payment platform, we show firms that take financing process 16% less revenue through the platform than observably similar non-takers after eight months, slowing repayment. Two natural experiments show this reflects moral hazard from firms diverting revenue and adverse selection. Repayment improves when firms use the platform’s other services (e.g., inventory management tools), and screening improves with longer histories and repeat financing. Our results highlight the frictions with flexible repayment models in developing economies, and how providers mitigate them.
 </small><br><br/></div>
 
-[rbf_paper]:{{ site.baseurl }}{% link assets/files/CRS_RevenueBasedFinancing.pdf %}
+[rbf_paper]:{{ site.baseurl }}{% link assets/files/CRS_RBF.pdf %}
 [rbf_video]:https://www.youtube.com/watch?v=SmPVPtMDAFY
 [rbf_jpal]:https://www.povertyactionlab.org/blog/3-9-26/how-data-and-ai-are-reshaping-access-finance
 
