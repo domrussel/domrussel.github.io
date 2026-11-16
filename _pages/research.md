@@ -17,7 +17,7 @@ We study how lender responses to consumer biases affect credit card debt. Using 
 </small><br><br/></div>
 
 [supply_paper]:{{ site.baseurl }}{% link assets/files/SupplySide.pdf %}
-[crs_coverage]:https://www.congress.gov/crs-product/R49517
+[crs_coverage]:https://www.congress.gov/crs-product/R49517#ifn148
 
 **Who Borrows on Credit Cards? The Economic and Social Determinants of Consumer Debt** (with Trevor J Bakker and Claire Shi). Updated 2026. <br/>
 <small>[<a href="#/" onclick="visib('borrows')">Abstract</a> | [Draft][borrows_paper]] </small>
