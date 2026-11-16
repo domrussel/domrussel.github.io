@@ -11,13 +11,13 @@ author_profile: true
 - - -
 
 **The Supply Side of Consumer Debt Repayment** (with Justin Katz and Claire Shi). Updated 2026. <br/>
-<small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][supply_paper] | Cited in [2025 Congressional Report on Consumer Finance][crs_coverage]] </small>
+<small>[<a href="#/" onclick="visib('supply')">Abstract</a> | [Draft][supply_paper] | Cited in [2026 Congressional Report on Credit Card Debt][crs_coverage]] </small>
 <div id="supply" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study how lender responses to consumer biases affect credit card debt. Using account-level credit bureau data, we document a new fact: many consumers make near-minimum credit card repayments while also overpaying lower-interest installment debt. We estimate an empirical model in which lenders optimally set minimum payments given this behavior. Because some liquid consumers make near-minimum payments, lenders lower minimums to slow repayment, increasing high-interest debt balances and interest revenue. Our model implies that this lender response increases revolving debt by $46 billion. This finding illustrates how optimizing lenders can amplify the effects of consumer biases in equilibrium.
 </small><br><br/></div>
 
 [supply_paper]:{{ site.baseurl }}{% link assets/files/SupplySide.pdf %}
-[crs_coverage]:https://www.congress.gov/crs-product/R48747
+[crs_coverage]:https://www.congress.gov/crs-product/R49517
 
 **Who Borrows on Credit Cards? The Economic and Social Determinants of Consumer Debt** (with Trevor J Bakker and Claire Shi). Updated 2026. <br/>
 <small>[<a href="#/" onclick="visib('borrows')">Abstract</a> | [Draft][borrows_paper]] </small>
