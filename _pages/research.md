@@ -28,12 +28,13 @@ Using linked credit bureau and Census data, we show that revolving credit card d
 [borrows_paper]:{{ site.baseurl }}{% link assets/files/BRS_Borrows.pdf %}
 
 **Gambling for Goals** (with Costas Arkolakis, Spencer Yongwook Kwon, Claire Shi, and Hyunjoo Yang). Updated 2026. <br/>
-<small>[<a href="#/" onclick="visib('riskseeking')">Abstract</a> | [Draft][riskseeking_paper]] </small>
+<small>[<a href="#/" onclick="visib('riskseeking')">Abstract</a> | [Draft][riskseeking_paper] | [Financial Times Coverage][riskseeking_ft]] </small>
 <div id="riskseeking" style="display: none; text-align: justify; line-height: 1.2" ><small>
 As young adults in advanced economies have become increasingly pessimistic about their economic prospects in recent years, gambling-like financial activities have proliferated. We link these trends through a Friedman-Savage (1948) motive: when life goals such as homeownership or marriage seem out of reach, individuals turn to financial gambles. We test the theory using an original survey combined with millions of linked records from Korea’s leading credit bureau, telecom provider, and credit card issuer. Consistent with the theory, individuals who place greater importance on hard-to-reach financial goals are more likely to exhibit risk-seeking preferences and to engage in high-risk investment. Conversely, when goals become attainable, risk-taking declines: exploiting Korea's housing lottery, which quasi-randomly allocates subsidies for home purchase, we show that attaining homeownership reduces interest in cryptocurrency. We conclude with a stylized calibration that shows how goal-driven risk preferences can amplify the welfare costs of overoptimism.
 </small><br><br/></div>
 
 [riskseeking_paper]:{{ site.baseurl }}{% link assets/files/GamblingForGoals.pdf %}
+[riskseeking_ft]:{{ site.baseurl }}{% link assets/files/CryptoFT_Coverage.pdf %}
 
 **Revenue-Based Financing** (with Rowan Clarke and Claire Shi). Updated 2025. *Revise & Resubmit at Review of Financial Studies* <br/>
 <small>[<a href="#/" onclick="visib('rbf')">Abstract</a> | [Draft][rbf_paper] | [BII Presentation Video][rbf_video] | [J-Pal Coverage][rbf_jpal]] </small>
